@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Affordable NYC Tour</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_restaurant">RestaurantActivity</string>
+    <string name="title_activity_restauant_detail">RestauantDetail</string>
+    <string name="title_activity_restaurant_detail">RestaurantDetail</string>
+    <string name="title_activity_attraction">AttractionActivity</string>
+    <string name="title_activity_attraction_detail">AttractionDetail</string>
+    <string name="centralpark">Info:Central Park is an urban park in the central part of the borough of Manhattan, New York City.
+        It was initially opened in 1857, on 778 acres (315 ha) of city-owned land, later expanding to its current size of 843 acres (341 ha). The best way to get
+        around central park is to use a bike. City bike rental is really cheap. you can enjoy unlimited rides for just $9.95 a day.
+
+
+    </string>
+    <string name="address">
+        67 Mott St, New York 10013</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_central_park_map">Map</string>
+    <string name="title_activity_city_bike_locations">Map</string>
+
+</resources>
